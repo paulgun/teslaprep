@@ -1,12 +1,23 @@
 # Model 3 Checklist #
 
-If you find this guide helpful, I'd appreciate you [using my referral link](https://www.tesla.com/referral/mykel48491) when ordering from Tesla!
+# Attribution
+Acknowledgement of the US-based Tesla prep guides from this great guy: [https://github.com/mykeln/teslaprep/blob/master/model_3_checklist.md](https://github.com/mykeln/teslaprep)
+Forked a derivative based on Australian conditions, principally flipping Left and Right, We drive on the left and the console menus are also flipped and the driver's door is on the right.
 
-This is available as a [mobile app for iOS and Android](https://teslaprep.glideapp.io), too.
+If you find this guide helpful, I'd appreciate you [using my referral link](https://ts.la/paul412051) when ordering from Tesla!
 
 This pre-drive checklist is designed to be done in a specific flow to save time and make sure nothing is missed. You will essentially do several "laps" around the car. Start at the beginning and work your way down the list. By the end, your car will be fully reviewed. Feel free to print this out and bring it, along with a pen. Don't feel like you need to rush through the inspection. The delivery team at Tesla will certainly seem like they want to move quickly, but you don't need to leave the lot until you're 100% satisfied. Take your time
 
 ---
+## SECTION 0 - pre-delivery Setup ##
+> Before arriving at Telsa, get prepared
+
+1. [ ] Install Tesla app to your mobile device
+1. [ ] Select and sign up for Comprehensive motor insurance before pickup (Based on VIN if rego unavailable)
+1. [ ] Identify charging cables useful for your site (not included)
+1. [ ] Locate charger for next charge after leaving Tesla (ie. highway on way home, home charger etc)
+1. [ ] Ensure the camera (ie. mobile ) has storage, data and fully charged to take photos
+
 
 ## SECTION A - Verify pre-delivery vehicle records ##
 
@@ -14,11 +25,15 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 
 1. [ ] Check for the correct full name and address on your paperwork
 1. [ ] Confirm the vehicle's VIN matches your paperwork
-1. [ ] Check the vehicle's "About" screen for any information that does not match the vehicle (found by tapping the car icon in the bottom-left, then tapping Software)
-1. [ ] Verify that the vehicle's Monroney record matches your configuration
-1. [ ] Verify that the vehicle's body color, interior, and wheels match what you configured
+1. [ ] Verify that the vehicle's Telsa invoice record matches your configuration
+1. [ ] Verify that the vehicle's body colour, interior, and wheels match what you configured
+1. [ ] Check the vehicle's "About" screen for any information that does not match the vehicle (found by tapping the car icon in the bottom-right, then tapping Software)
+
+
 
 ## SECTION B - Exterior inspection ##
+
+> Vehicle may still be on charger waiting for pickup, skip to the charger checks first before they unplug it 
 
 ### Panel gaps ###
 
@@ -38,7 +53,7 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 1. [ ] Front bumper
 1. [ ] Right front quarter panel
 1. [ ] Right front wheel
-1. [ ] Right passenger door
+1. [ ] Right front Driver's door
 1. [ ] Right rear door
 1. [ ] Right rear wheel
 1. [ ] Right rear quarter panel
@@ -47,13 +62,13 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 1. [ ] Left rear quarter panel
 1. [ ] Left rear wheel
 1. [ ] Left rear door
-1. [ ] Driver's door
+1. [ ] Left front passenger door
 1. [ ] Left front wheel
 1. [ ] Left front quarter panel
 1. [ ] Frunk
 
 **OPEN ALL DOORS, INCLUDING FRUNK, TRUNK**
-1. [ ] Test power liftgate operation on trunk
+1. [ ] Test power liftgate operation on trunk (where fitted, not installed on older models)
 1. [ ] Test all doors (including frunk and trunk) to ensure they open and close without unreasonable effort or sound
 1. [ ] Ensure door windows auto-close completely when doors are closed
 1. [ ] Check the frunk/trunk lighting
@@ -94,7 +109,7 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 1. [ ] Tap the "Toybox" icon at the bottom right of the screen and launch the Sketchpad app. Leave the Sketchpad up for a minute to make sure there are no phantom touches happening on the display, or dead pixels
 
 **GET OUT OF THE DRIVER'S SEAT**
-1. [ ] Gently test the driver and passenger door emergency releases
+1. [ ] Gently test the driver and passenger door emergency releases (after winding down window 1/5 to ensure no trim damage)
 1. [ ] Check driver and passenger door puddle lights
 1. [ ] Check all door latch button lights
 1. [ ] Check all door window button lights
@@ -121,8 +136,7 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 ## SECTION E - Charging ability
 1. [ ] Check the charge port door for proper operation and alignment (manual tap, through screen/app, and button on charger)
 1. [ ] Check charge port indicator light
-1. [ ] Ensure the vehicle will accept a charge at the Supercharger at the delivery center if avaliable
-1. [ ] Check for J1772 adapter
+1. [ ] Ensure the vehicle will accept a charge at the Supercharger at the delivery center if available
 
 
 ## SECTION F - Inspect pairing connectivity
@@ -131,7 +145,12 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 
 
 ## SECTION G - Optional equipment
-1. [ ] Check for front license plate bracket (if applicable in your region)
-1. [ ] Check for the towing eye under the frunk mat
-1. [ ] Maryland state deliveries should include Tesla's official inflation kit (usually stowed in trunk)
+1. [ ] Check for the towing eye under the frunk mat (if fitted)
 1. [ ] Verify that any additional floor mats are included (if ordered)
+
+
+RELEASE NOTES:
+20231225 forked AU variant
+flip left and right on doors, menus etc
+no monroney sticker
+
