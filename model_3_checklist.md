@@ -118,6 +118,7 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 1. [ ] Check the rear seats for proper fold-down operation
 1. [ ] Check rear left and right overhead lights
 1. [ ] Test connectivity in all USB ports (1 USB-A/1 USB-C in the front, 2 USB-C in the rear)
+1. [ ] Confirm dashcam USB supplied from Tesla inserted
 
 
 ## SECTION D - Lighting inspection
